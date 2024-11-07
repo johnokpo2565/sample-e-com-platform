@@ -1,0 +1,42 @@
+- Create Models For:
+	*Custom UserModel 
+	*Product Model
+	*Categotry Model
+	*Order Model
+	*Shipping Model
+	*Payment Model
+	Coupon Model
+	*Review Model
+	Wishlist Model
+	Notification Model
+	Blog Model
+	*Contact Model
+	FAQ Model
+	Analystics Model
+	Configuration Model
+	Tax Model
+	Refund Model
+	Subscription Model
+
+
+
+
+	Student Portal 
+
+	Create Models For:
+		Student Model:
+			First name
+			Last name
+			Email
+			password 
+
+			Address
+			Age
+			Profile Pics
+
+
+			Ambassardor Planipotentiary
+
+
+
+	
